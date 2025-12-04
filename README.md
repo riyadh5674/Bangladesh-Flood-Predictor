@@ -43,6 +43,7 @@ the first step is to select features , the following features are selected to wo
 | longitude         |                   |
 | altitude          | meter             |
 | flood?            | 1(Yes) & 0(No)    |
+
 **Step 2**
 
 The following table helps you understand the relationship between feature and the probability of flood . 
