@@ -138,17 +138,34 @@ we trained a model using these feature , and then used the same model but physic
 >Gap only 0.0116 while being 100% physically consistent
 
 
-## Data Source & Credit
+## Data Source & Citation
 
-This work uses the publicly available **Bangladesh flood dataset** originally collected and shared by:
+This project uses the publicly available **Bangladesh flood dataset** originally collected and published by:
 
 **Noushin Gauhar, Sunanda Das, and Khadiza Sarwar Moury**  
-in their 2021 paper:
+in their 2021 IEEE paper:
 
-> Gauhar, N., Das, S., & Moury, K. S. (2021). **Prediction of Flood in Bangladesh using k-Nearest Neighbors Algorithm**. In *2021 2nd International Conference on Robotics, Electrical and Signal Processing Techniques (ICREST)* (pp. 357–361). IEEE.  
->[ https://doi.org/10.1109/ICREST51555.2021.9331123](https://github.com/n-gauhar/Flood-prediction/tree/master)
+> Gauhar, N., Das, S., & Moury, K. S. (2021). Prediction of Flood in Bangladesh using k-Nearest Neighbors Algorithm. In *2021 2nd International Conference on Robotics, Electrical and Signal Processing Techniques (ICREST)* (pp. 357–361). IEEE.  
+> DOI: [10.1109/ICREST51555.2021.9331123](https://doi.org/10.1109/ICREST51555.2021.9331123)
 
-GitHub repository (if they have one – replace with actual link):  
-https://github.com/... (or just say “shared publicly on GitHub”)
+GitHub repository:
+https://github.com/n-gauhar/Flood-prediction
 
-We sincerely thank the authors for making their high-quality dataset openly available to the research community. This work builds upon their data collection efforts.
+
+We sincerely thank the authors for generously making their high-quality dataset publicly available on GitHub. This work builds directly on their data collection efforts and would not have been possible without their contribution.
+
+**If you use this dataset or our repository, please cite their original paper:**
+
+```bibtex
+@inproceedings{gauhar2021prediction,
+  title={Prediction of Flood in Bangladesh using k-Nearest Neighbors Algorithm},
+  author={Gauhar, Noushin and Das, Sunanda and Moury, Khadiza Sarwar},
+  booktitle={2021 2nd International Conference on Robotics, Electrical and Signal Processing Techniques (ICREST)},
+  pages={357--361},
+  year={2021},
+  organization={IEEE},
+  doi={10.1109/ICREST51555.2021.9331123}
+}
+
+
+
