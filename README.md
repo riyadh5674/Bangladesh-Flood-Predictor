@@ -124,7 +124,7 @@ we trained a model using these feature , and then used the same model but physic
 **IMPROVEMENT : -0.1077**
 
 #CATBOOST :
-okay i just ran this model and got good results :
+ I ran this model and got good results :
 **CATBOOST PHYSICS-GUIDED AUC: 0.9848**
 
 
